@@ -1,0 +1,7 @@
+tensorflow==2.3.2
+tensorflow_gan
+tensorflow_probability==0.11.1
+tensorflow_datasets
+jupyter
+matplotlib
+opencv-python
